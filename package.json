@@ -35,5 +35,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NavasVincent/react-utils-package.git"
+  },
+  "keywords": ["react", "components", "utilities", "hooks", "performance", "helpers", "storage", "uuid", "debounce", "throttle", "formatting", "components"],
+  "author": "Vincent Navas",
+  "license": "MIT"
 }
